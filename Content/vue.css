@@ -1,0 +1,14 @@
+﻿.change:hover{
+    cursor: pointer
+}
+body {
+    background-image: url("https://i.ytimg.com/vi/aiU22lKiZbA/maxresdefault.jpg");
+}
+.colorText {
+    color: white;
+    font-size: 16px;
+}
+.theTitle {
+    text-align: center;
+    color: white;
+}
