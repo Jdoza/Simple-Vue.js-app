@@ -97,6 +97,7 @@
   <ItemGroup>
     <Content Include="Content\vue-app.html" />
     <Content Include="Content\vue.css" />
+    <Content Include="Content\vue.js" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\vue.js" />
     <Content Include="Scripts\vue.min.js" />
